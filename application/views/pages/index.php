@@ -478,7 +478,7 @@
                 <div class="swiper-slide slide">
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
-                        <img src="<?= base_url() ?>assets/images/review1.png" alt="">
+                        <img src="" alt="">
                         <div class="user-info">
                             <h3>User 1</h3>
                             <div class="stars">
@@ -535,7 +535,7 @@
                 <div class="swiper-slide slide">
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
-                        <img src="<?= base_url() ?>assets/images/review4.png" alt="">
+                        <img src="" alt="">
                         <div class="user-info">
                             <h3>User 4</h3>
                             <div class="stars">
