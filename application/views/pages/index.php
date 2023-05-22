@@ -480,7 +480,7 @@
                     <div class="user">
                         <img src="<?= base_url() ?>assets/images/review1.png" alt="">
                         <div class="user-info">
-                            <h3>Bos Coto Makacar</h3>
+                            <h3>User 1</h3>
                             <div class="stars">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -490,15 +490,16 @@
                             </div>
                         </div>
                     </div>
-                    <p>Coto Makassar nya enak banget</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.</p>
                 </div>
 
                 <div class="swiper-slide slide">
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
-                        <img src="<?= base_url() ?>assets/images/review2.png" alt="">
+                        <img src="" alt="">
                         <div class="user-info">
-                            <h3>Muhammad Brimstone</h3>
+                            <h3>User 2</h3>
                             <div class="stars">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -508,15 +509,16 @@
                             </div>
                         </div>
                     </div>
-                    <p>Nasi Katsu recommended parah, kacau</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.</p>
                 </div>
 
                 <div class="swiper-slide slide">
                     <i class="fas fa-quote-right"></i>
                     <div class="user">
-                        <img src="<?= base_url() ?>assets/images/review3.png" alt="">
+                        <img src="" alt="">
                         <div class="user-info">
-                            <h3>Asep Shockdart</h3>
+                            <h3>User 3</h3>
                             <div class="stars">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -526,7 +528,8 @@
                             </div>
                         </div>
                     </div>
-                    <p>Putu Pandita password nya RAWR dari akuu... RAWRRR!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.</p>
                 </div>
 
                 <div class="swiper-slide slide">
@@ -534,7 +537,7 @@
                     <div class="user">
                         <img src="<?= base_url() ?>assets/images/review4.png" alt="">
                         <div class="user-info">
-                            <h3>Deuska MVP Yoru</h3>
+                            <h3>User 4</h3>
                             <div class="stars">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -544,7 +547,8 @@
                             </div>
                         </div>
                     </div>
-                    <p>Fake Teleport!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.</p>
                 </div>
 
             </div>
